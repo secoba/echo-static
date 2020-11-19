@@ -1,4 +1,4 @@
-module echo-static
+module echo_static
 
 go 1.15
 

@@ -1,4 +1,4 @@
-package static
+package echo_static
 
 import (
     "bytes"
